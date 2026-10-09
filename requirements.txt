@@ -1,0 +1,26 @@
+# Core Data Science
+pandas
+numpy
+
+# AI & Agents (LangChain, CrewAI, Anthropic)
+langchain
+langchain-openai
+langchain-anthropic
+crewai
+openai
+
+# PDF Parsing & Extraction
+pypdf2
+unstructured
+
+# Database
+sqlalchemy
+
+# Screening & Visualization
+asreview
+matplotlib
+seaborn
+
+# Utilities
+python-dotenv
+ipykernel

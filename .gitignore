@@ -1,0 +1,17 @@
+# Env variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Data (keep raw data large files out of git tracking if possible, or use git-lfs)
+data/raw/*.pdf
+data/final/*.db
+
+# OS files
+.DS_Store
+Thumbs.db
