@@ -11,6 +11,8 @@ env/
 # Data (keep raw data large files out of git tracking if possible, or use git-lfs)
 data/raw/*.pdf
 data/final/*.db
+data/
+logs/
 
 # OS files
 .DS_Store
