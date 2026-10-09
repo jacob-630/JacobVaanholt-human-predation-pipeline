@@ -1,7 +1,7 @@
 # Systematic Review: Human Predation on Vertebrates
 
 ## Protocol Version: V1.0
-## Date: [Today's Date]
+## Date: October 9, 2026
 
 ### 1. Scientific Question
 How successful are humans at capturing wild vertebrate prey (fish, mammals, birds, reptiles) across different hunting methods and stages of the predation sequence?
