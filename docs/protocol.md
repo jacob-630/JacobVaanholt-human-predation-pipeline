@@ -8,7 +8,7 @@ How successful are humans at capturing wild vertebrate prey (fish, mammals, bird
 
 ### 2. Scope
 - **Taxa:** All wild vertebrates (Ungulates, Fish, Birds, Reptiles, Amphibians).
-- **Geography:** North America (Canada + US).
+- **Geography:** Global.
 - **Timeframe:** 1980 – 2026.
 
 ### 3. AI Workflow Strategy
