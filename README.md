@@ -16,7 +16,7 @@ The pipeline follows a strict PRISMA-based protocol (V2) but utilizes **Active L
 
 ### Search Strategy
 - **Concept:** Broad search using Process and Action terms; specific species terms are excluded to prevent discovery bias.
-- **Scope:** North America (Canada + US), 1980–2026.
+- **Scope:** Global, 1980–2026.
 - **Taxa:** All wild vertebrates (Ungulates, Fish, Birds, Reptiles, Amphibians).
 
 ### Data Structure
